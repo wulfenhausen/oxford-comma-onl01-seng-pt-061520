@@ -11,8 +11,8 @@ elseif array.length == 1
   end
 end
   
-  
-  oxford_comma(array)
+#  
+#  oxford_comma(array)
   
   
   array = ["apple"]
